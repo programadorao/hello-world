@@ -1,3 +1,3 @@
 # hello-world
-Seguir a tradição!
+Seguindo a tradição!
 ![](pat.png)
